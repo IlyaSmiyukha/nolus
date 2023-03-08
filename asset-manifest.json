@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nolus/static/css/main.7c3732c7.css",
+    "main.js": "/nolus/static/js/main.dc076d2d.js",
+    "static/js/787.c5b1494f.chunk.js": "/nolus/static/js/787.c5b1494f.chunk.js",
+    "static/media/avatar.jpeg": "/nolus/static/media/avatar.7a5e3229c69951f978b0.jpeg",
+    "index.html": "/nolus/index.html",
+    "main.7c3732c7.css.map": "/nolus/static/css/main.7c3732c7.css.map",
+    "main.dc076d2d.js.map": "/nolus/static/js/main.dc076d2d.js.map",
+    "787.c5b1494f.chunk.js.map": "/nolus/static/js/787.c5b1494f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c3732c7.css",
+    "static/js/main.dc076d2d.js"
+  ]
+}
