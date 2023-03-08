@@ -1,6 +1,6 @@
 {
-  "name": "nolus-dashboard",
-  "homepage": "https://ilyasmiyukha.github.io/nolus-dashboard",
+  "name": "nolus",
+  "homepage": "https://ilyasmiyukha.github.io/nolus",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
