@@ -1,7 +1,7 @@
 import {
   useState,
   useEffect
-} from 'react'
+} from 'react';
 import axios from 'axios';
 
 import { Layout, Card, Table } from 'antd';
